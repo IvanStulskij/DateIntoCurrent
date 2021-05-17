@@ -1,0 +1,6 @@
+D:\for learning\Портфолио\DateIntoCurrent\DateIntoCurrent\bin\Debug\DateIntoCurrent.exe
+D:\for learning\Портфолио\DateIntoCurrent\DateIntoCurrent\bin\Debug\DateIntoCurrent.pdb
+D:\for learning\Портфолио\DateIntoCurrent\DateIntoCurrent\obj\Debug\DateIntoCurrent.csprojAssemblyReference.cache
+D:\for learning\Портфолио\DateIntoCurrent\DateIntoCurrent\obj\Debug\DateIntoCurrent.csproj.CoreCompileInputs.cache
+D:\for learning\Портфолио\DateIntoCurrent\DateIntoCurrent\obj\Debug\DateIntoCurrent.exe
+D:\for learning\Портфолио\DateIntoCurrent\DateIntoCurrent\obj\Debug\DateIntoCurrent.pdb
